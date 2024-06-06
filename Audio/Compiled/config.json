@@ -1,0 +1,18 @@
+{
+    "timing" : 50,
+    "processes" :
+    [
+        {
+            "system" : 100,
+            "sub processes": 20,
+            "opera" : 50
+        }
+    ],
+
+    "black listed" :
+    [
+        {
+            "steam" : 0
+        }
+    ]
+}
