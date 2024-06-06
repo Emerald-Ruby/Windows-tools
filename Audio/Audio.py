@@ -1,3 +1,9 @@
+##############################
+# First made     :    23/02/24
+# Last edited    :    06/06/2024
+# Author         :    Emm
+##############################
+
 from ctypes import cast, POINTER
 from  comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume, ISimpleAudioVolume
