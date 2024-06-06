@@ -29,7 +29,7 @@ black listed :
 You need to download python and run ` pip install pyinstaller `
 Then open a terminal, and cd paste the location of the Audio.py file, eg
 ` cd C:/user/public/download/Audio `
-Then to compile, use ` pyinstaller -onefile Audio.py `, the .exe will in the "disk" folder
+Then to compile, use ` pyinstaller --onefile Audio.py `, the .exe will in the "disk" folder
 
 if there is a " access violation reading 0xFFFFFFFFFFFFFFFF " it seems to run fine after,
 and I havn't seen it in the compiled version
